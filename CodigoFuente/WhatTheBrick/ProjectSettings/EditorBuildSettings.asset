@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 45fd40f64625ab6468274d75becd1120
+  - enabled: 1
+    path: Assets/Scenes/Selector.unity
+    guid: ae6b55c3a6459b641b3641a646bb310d
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Breakout OG.unity
+    guid: 49a6bc2eefe968842a065997c2c99867
+  - enabled: 1
+    path: Assets/Scenes/Breakout Tiros.unity
+    guid: aa8e7998bd2794e40b6a332e5da3e4c3
+  - enabled: 1
+    path: Assets/Scenes/Pong.unity
+    guid: 470fe9c68eab02e4886184261164d5a4
+  - enabled: 1
+    path: Assets/Scenes/Pinball_1.unity
+    guid: b065dd80bf1326e469e6ead2a6a1131c
+  - enabled: 1
+    path: Assets/Scenes/Pinball_2.unity
+    guid: 212e89bd3de305646a1700dec489d134
+  - enabled: 1
+    path: Assets/Scenes/NivelGallina.unity
+    guid: b209ba3e4c642284aae58dab766319f1
+  - enabled: 1
+    path: Assets/Scenes/NivelGallina2.unity
+    guid: 20a49f4718b169746a296d77082671d8
+  - enabled: 1
+    path: Assets/Scenes/NivelGallina3.unity
+    guid: 321f3cd4be607b047a6b43469f7b803e
+  - enabled: 1
+    path: Assets/Scenes/NivelTanque.unity
+    guid: bdeca40caa9e0534380c68fd52b47e5b
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: da15eeb5841bc6449a81360d0969e167
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: f110a8764d991634c91578052cd7b198
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 27ccfcd50362e9e42b97360e70a959ba
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

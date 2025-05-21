@@ -1,0 +1,20 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      23
+    ],
+    "SourceCsetId": 26,
+    "DestinationCsetId": 23,
+    "FileConflicts": [
+      {
+        "Path": "/Assets/Fonts/PressStart2P-Regular SDF.asset",
+        "ItemId": 2344,
+        "ParentItemId": 2328,
+        "BaseRevId": 2424,
+        "SourceRevId": 4770,
+        "DestinationRevId": 2536
+      }
+    ]
+  }
+]
